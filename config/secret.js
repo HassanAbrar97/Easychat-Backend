@@ -1,4 +1,5 @@
 module.exports = {
-  url: 'mongodb://100.110.1.182:27017/socialapp',
+  //url: 'mongodb://localhost:27017/socialapp',
+  url: 'mongodb://100.110.1.121:27017/socialapp',
   secret: 'myjsonsecret'
 };
